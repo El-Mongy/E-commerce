@@ -1,19 +1,10 @@
-# rentomojo
+This is my graduation  project of the iti training:
 
-## Project setup
-```
-npm install
-```
+--The tools :
+--- HTML
+--- CSS
+--- Bootstrap
+--- Javascript
+--- VueJs
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-- This is an e-commerce of different things you can buy, It is a responsive website.
