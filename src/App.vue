@@ -8,7 +8,7 @@
 <script>
 import SectionsRoute from './components/Global/SectionsRoute.vue';
 import AppHeader from './components/Global/AppHeader.vue';
-
+import DynamicSection from './components/Global/DynamicSection.vue';
 
 
 export default {
